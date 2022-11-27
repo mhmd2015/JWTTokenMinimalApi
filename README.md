@@ -1,4 +1,6 @@
-[[https://raw.githubusercontent.com/mhmd2015/JWTTokenMinimalApi/master/Images/b1-head.png]]
+
+
+
 This project is for demo purposing to understand how JWT token can be created and how using the .NET 7.0 Minimal API end point to give the user the token for authentication against other ASP.NET websites including Blazor WebAssembly.
 
 Will discuss in detail with tutorial:
